@@ -1,0 +1,82 @@
+                                Pseudocode
+
+Problem 2: Take three variables as input and add them without using the '+' operator
+
+ START
+
+ // Input /Output
+
+  Input No 1 
+  Input No 2
+  Input No 3
+
+ // Process Steps
+
+    No 1 - - No 2 - - No 3
+    Display the result
+
+ END
+
+
+
+Problem 3: Create a small calculator which only does'+'or'-'Operations.
+
+ START 
+
+ //Input /Output
+
+     NUMBER 1  
+     NUMBER 2
+
+ // Process Steps
+
+     IF operator is ‘+’
+              NUMBER 1 + NUMBER 2
+     ELSE IF the operator is ‘-’
+              NUMBER 1 – NUMBER 2 
+     ELSE print 
+             “ Invalid , please use ‘+’ or “-’ Operator “
+
+ END
+
+                        
+
+                 
+                                 Algorithm
+
+Problem 1: Implement an algorithm for determining if a Nth is a divisor of an n Number (i.e. 2 is a divisor of 6).If so, determine if it’s an even number or odd number as well.
+
+
+ 1.	Ask user to enter Nth Number
+ 2.	Ask user to enter n Number
+ 3.	Divide n with Nth 
+ 4.	If its divisible then print “Divisible “
+             Else   Print “Not divisible”
+ 5.	If the answer is odd print “Odd “
+             Else print “Even “
+
+
+
+
+
+Problem 3:  Implement an algorithm for making a simple calculator with  all the operators (+, -,*,/,%).
+
+
+ 1.	Ask the User to Input 1st Number
+ 2.	Ask the User to Input 2nd Number
+ 3.	If operator is ‘+’
+                       1st + 2nd
+ 4.	If operator is ‘-’
+                       1st -  2nd
+ 5.	If operator is ‘*’
+                       1st * 2nd 
+ 6.	If operator is ‘/’
+                       1st / 2nd 
+ 7.	If operator is ‘%’
+                       1st %2nd 
+
+
+
+
+                        
+
