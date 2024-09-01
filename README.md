@@ -2,7 +2,7 @@
 
 **Department : BCY-1A**
 
-**Hobbies : Art,Badmanton,Gym**
+**Hobbies : Art,Badminton,Gym**
 
 **Skills : Content creator,Rubiks Cube**
 
